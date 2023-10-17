@@ -182,7 +182,7 @@ export default function Home() {
                       <div className="flex flex-col items-stretch w-[11%] max-md:w-full">
                         <img
                           loading="lazy"
-                          srcSet="check.svg"
+                          srcSet="mark.svg"
                           className="aspect-square object-cover object-center w-20 fill-green-500 overflow-hidden shrink-0 my-auto max-md:mt-12"
                         />
                       </div>
@@ -212,7 +212,7 @@ export default function Home() {
                       <div className="flex flex-col items-stretch w-[11%] max-md:w-full">
                         <img
                           loading="lazy"
-                          srcSet="check.svg"
+                          srcSet="mark.svg"
                           className="aspect-square object-cover object-center w-20 fill-green-500 overflow-hidden shrink-0 my-auto max-md:mt-12"
                         />
                       </div>
@@ -242,7 +242,7 @@ export default function Home() {
                       <div className="flex flex-col items-stretch w-[11%] max-md:w-full">
                         <img
                           loading="lazy"
-                          srcSet="check.svg"
+                          srcSet="mark.svg"
                           className="aspect-square object-cover object-center w-20 fill-green-500 overflow-hidden shrink-0 my-auto max-md:mt-12"
                         />
                       </div>
@@ -303,7 +303,7 @@ export default function Home() {
                     <div className="justify-center items-start bg-cyan-950 z-[1] flex w-40 max-w-full flex-col -mr-10 my-auto p-4 rounded-3xl max-md:mt-12">
                       <img
                         loading="lazy"
-                        srcSet="lawn.svg"
+                        srcSet="mowing.png"
                         className="aspect-square object-cover object-center w-10 overflow-hidden shrink-0"
                       />
                     </div>
@@ -338,7 +338,7 @@ export default function Home() {
                     <div className="justify-center items-start bg-cyan-950 z-[1] flex w-40 max-w-full flex-col -mr-10 my-auto p-4 rounded-3xl max-md:mt-12">
                       <img
                         loading="lazy"
-                        srcSet="lawn.svg"
+                        srcSet="mowing.png"
                         className="aspect-square object-cover object-center w-10 overflow-hidden shrink-0"
                       />
                     </div>
@@ -377,7 +377,7 @@ export default function Home() {
                     <div className="justify-center items-start bg-cyan-950 z-[1] flex w-40 max-w-full flex-col -mr-10 my-auto p-4 rounded-3xl max-md:mt-12">
                       <img
                         loading="lazy"
-                        srcSet="lawn.svg"
+                        srcSet="mowing.png"
                         className="aspect-square object-cover object-center w-10 overflow-hidden shrink-0"
                       />
                     </div>
@@ -412,7 +412,7 @@ export default function Home() {
                     <div className="justify-center items-start bg-cyan-950 z-[1] flex w-40 max-w-full flex-col -mr-10 my-auto p-4 rounded-3xl max-md:mt-12">
                       <img
                         loading="lazy"
-                        srcSet="lawn.svg"
+                        srcSet="mowing.png"
                         className="aspect-square object-cover object-center w-10 overflow-hidden shrink-0"
                       />
                     </div>
@@ -451,7 +451,7 @@ export default function Home() {
                     <div className="justify-center items-start bg-cyan-950 z-[1] flex w-40 max-w-full flex-col -mr-10 my-auto p-4 rounded-3xl max-md:mt-12">
                       <img
                         loading="lazy"
-                        srcSet="lawn.svg"
+                        srcSet="mowing.png"
                         className="aspect-square object-cover object-center w-10 overflow-hidden shrink-0"
                       />
                     </div>
@@ -486,7 +486,7 @@ export default function Home() {
                     <div className="justify-center items-start bg-cyan-950 z-[1] flex w-40 max-w-full flex-col -mr-10 my-auto p-4 rounded-3xl max-md:mt-12">
                       <img
                         loading="lazy"
-                        srcSet="lawn.svg"
+                        srcSet="mowing.png"
                         className="aspect-square object-cover object-center w-10 overflow-hidden shrink-0"
                       />
                     </div>
